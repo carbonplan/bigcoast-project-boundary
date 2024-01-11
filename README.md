@@ -1,8 +1,10 @@
 <p align="left" >
+<a href='https://carbonplan.org'>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://carbonplan-assets.s3.amazonaws.com/monogram/light-small.png">
   <img alt="CarbonPlan monogram." height="48" src="https://carbonplan-assets.s3.amazonaws.com/monogram/dark-small.png">
 </picture>
+</a>
 </p>
 
 # carbonplan / bigcoast-project-boundary
@@ -25,4 +27,4 @@ mapshaper /tmp/bigcoast-buffered.json -simplify dp 15% -o precision=0.0001 /tmp/
 
 ## about us
 
-CarbonPlan is a non-profit organization that uses data and science for climate action. We aim to improve the transparency and scientific integrity of climate solutions with open data and tools. [Find out more at carbonplan.org](https://carbonplan.org/) or get in touch by [opening an issue](https://github.com/carbonplan/extreme-heat/issues/new) or [sending us an email](mailto:hello@carbonplan.org).
+CarbonPlan is a nonprofit organization that uses data and science for climate action. We aim to improve the transparency and scientific integrity of climate solutions with open data and tools. [Find out more at carbonplan.org](https://carbonplan.org/) or get in touch by [opening an issue](https://github.com/carbonplan/extreme-heat/issues/new) or [sending us an email](mailto:hello@carbonplan.org).
