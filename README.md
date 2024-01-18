@@ -13,6 +13,8 @@
 
 data and code used to reconstruct an approximation of the boundary of the BigCoast offset project, which underlie a [blog post](https://carbonplan.org/blog/bigcoast-project-boundary) we wrote about the project.
 
+You can download the resulting project boundary [here](https://carbonplan-forest-offsets.s3.us-west-1.amazonaws.com/offsets-project-boundaries/inferred_boundary.json).
+
 
 ## methods
 
